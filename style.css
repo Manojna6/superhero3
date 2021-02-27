@@ -1,0 +1,17 @@
+.body-background{
+    background-image: url("avenger_bg.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+canvas{
+    background-color: white;
+}
+
+#title{
+    color: white;
+}
+#head_info{
+    width: 50%;
+    border-radius: 20px;
+}
